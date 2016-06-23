@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="0">
+    <solid android:color="@color/counter_text_bg" />
+    <padding android:left="3dp" android:right="3dp" />
+    <corners android:radius="2dp" />
+</shape>

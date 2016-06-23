@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="-1" android:layout_height="-1" android:scaleType="1" android:adjustViewBounds="true">
+    <ScrollView android:id="@id/scrollView1" android:layout_width="-1" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+            <RelativeLayout android:layout_width="-1" android:layout_height="519dp">
+                <ImageView android:id="@id/imgProfileHome" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="17dp" android:src="@drawable/visa" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:id="@id/lblBalance" android:layout_width="-2" android:layout_height="-2" android:text="We will not store your card details. All transactions are secure." android:layout_toLeftOf="@id/imgProfileHome" android:layout_alignTop="@id/imgProfileHome" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/txtAmount" android:layout_width="-1" android:layout_height="-2" android:hint="Amount to load" android:ems="10" android:layout_below="@id/imgProfileHome" android:layout_alignRight="@id/txtCVV" android:layout_alignParentLeft="true" android:inputType="2002" />
+                <EditText android:id="@id/txtCardNumber" android:layout_width="-2" android:layout_height="-2" android:hint="Card Number" android:ems="10" android:layout_below="@id/txtAmount" android:layout_alignRight="@id/txtAmount" android:layout_alignParentLeft="true" android:inputType="2" />
+                <EditText android:id="@id/txtNameOnCard" android:layout_width="-2" android:layout_height="-2" android:hint="Name on Card" android:ems="10" android:layout_below="@id/txtCardNumber" android:layout_alignRight="@id/txtCardNumber" android:layout_alignParentLeft="true" android:inputType="1061" />
+                <EditText android:id="@id/txtExpiryDate" android:layout_width="-2" android:layout_height="-2" android:hint="Expiry Date MM/YY" android:ems="10" android:layout_below="@id/txtNameOnCard" android:layout_alignParentLeft="true" android:inputType="1" />
+                <EditText android:id="@id/txtCVV" android:layout_width="60dp" android:layout_height="-2" android:hint="CVV" android:ems="10" android:layout_toRightOf="@id/txtExpiryDate" android:layout_alignBaseline="@id/txtExpiryDate" android:layout_alignBottom="@id/txtExpiryDate" android:inputType="2">
+                    <requestFocus />
+                </EditText>
+                <CheckBox android:textColor="#000000" android:id="@id/chkTerms" android:layout_width="-2" android:layout_height="-2" android:text="I agree to Terms & Conditions" android:layout_below="@id/txtExpiryDate" android:layout_alignParentLeft="true" />
+                <Button android:textColor="#fff" android:id="@id/btnProceed" android:background="@drawable/red_buttons" android:layout_width="-1" android:layout_height="60dp" android:text="Process" android:layout_below="@id/chkTerms" android:layout_alignParentLeft="true" android:onClick="proceed" />
+                <ProgressBar android:id="@id/pgLogin" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:progressDrawable="@drawable/red_buttons" android:layout_below="@id/btnProceed" android:layout_alignRight="@id/lblBalance" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:layout_width="-2" android:layout_height="-2" />
+</RelativeLayout>

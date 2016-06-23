@@ -1,0 +1,441 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/profile.xml
+SHA1-Digest: r2xCGIbhJanauv4G8e1d9gLCoIY=
+
+Name: res/drawable-hdpi/ic_whats_hot.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-hdpi/welcome.png
+SHA1-Digest: CQaXHc9Iay4cpse7TZ4HBmEkxIw=
+
+Name: assets/smartphone/images/down-arrow.png
+SHA1-Digest: e8K+/23yljpSLyCGT+ab7RQpO58=
+
+Name: res/layout/donate.xml
+SHA1-Digest: 34sKv6OqMXpj8iPZjEW7LqLi//M=
+
+Name: res/drawable-xxhdpi/visa.gif
+SHA1-Digest: aj0F0AnN3NyAfjJJ9nDgMnJLyFk=
+
+Name: res/drawable-hdpi/button_styles.xml
+SHA1-Digest: UyEjOJQBpEeIzp4ueNAc1dY7LB0=
+
+Name: assets/smartphone/images/service-bg.png
+SHA1-Digest: dW6K8Te0Fioyn2VlxJ791lBCvS0=
+
+Name: res/drawable-xxhdpi/ic_pages.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: assets/smartphone/css/style.css
+SHA1-Digest: KaOZ2I5R6bJeJdDXob3LECerBHI=
+
+Name: assets/smartphone/js/move-top.js
+SHA1-Digest: k7IV5uONDlKQZq/nCRnCTCopg1k=
+
+Name: res/layout/fragment_news.xml
+SHA1-Digest: rTNc0b5OqE8sW013kJSMQ3LcSBM=
+
+Name: res/layout/fragment_find_people.xml
+SHA1-Digest: pmKqrOBEtfwYBYXJEHWQidTguW4=
+
+Name: res/drawable-hdpi/karibu_login.png
+SHA1-Digest: eMrYho1wBD0nJbKXSBaKV+rif74=
+
+Name: res/drawable-hdpi/test3.xml
+SHA1-Digest: G3dhm7Xo1EBuCqGIz7Zcmqe2Wdg=
+
+Name: res/drawable-xhdpi/welcome.png
+SHA1-Digest: CQaXHc9Iay4cpse7TZ4HBmEkxIw=
+
+Name: assets/css/normalize.css
+SHA1-Digest: g9pZYPwMfiUTLi4u60fHUjmiOSo=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: XBMJdehAu81rr0VDCT4ygft9v20=
+
+Name: res/drawable-xxhdpi/splash.png
+SHA1-Digest: XBMJdehAu81rr0VDCT4ygft9v20=
+
+Name: assets/smartphone/images/contact-icons.png
+SHA1-Digest: lzt/csmzR9ik9QX35iVBAlEeDEI=
+
+Name: assets/scss/style.scss
+SHA1-Digest: mmEeA7roAmxsCMOvJ9KS6fOmIWE=
+
+Name: res/drawable-hdpi/profile_pic.png
+SHA1-Digest: evC1KcUjg15rEQJkYazO9doemsg=
+
+Name: res/layout/fragment_photos.xml
+SHA1-Digest: 4ZzOW6UYfIUdF48x0mBOa+O+llE=
+
+Name: res/layout/topup.xml
+SHA1-Digest: xgzHRpb1zi1p4eY5j/dqhJA/D3c=
+
+Name: assets/smartphone/images/slide2.jpg
+SHA1-Digest: zCCW7UCBCNRghOkRJLc+rIzpgz0=
+
+Name: res/drawable-hdpi/avatar.jpg
+SHA1-Digest: 3gidnv3yePB11SxCoKs7ynIE9Kc=
+
+Name: res/drawable-xhdpi/bg_main.jpg
+SHA1-Digest: YxeMb8V4iV3ORJrLPqeYaeCznfs=
+
+Name: assets/diet.png
+SHA1-Digest: K6FQezSF/f9h460mf6r+bjqV0ho=
+
+Name: assets/smartphone/images/top-arrowb.png
+SHA1-Digest: debSv9KtDxOnBExfXEJ50Z/6RV0=
+
+Name: res/drawable-hdpi/copy.jpg
+SHA1-Digest: dimrxLqY1MQbGKNnAjKtFbmqhTA=
+
+Name: assets/smartphone/images/top-grid-icons1.png
+SHA1-Digest: f5iX+eczQSLtwhQjKhryIx5U01o=
+
+Name: assets/smartphone/images/top-grid-info-bg-b.png
+SHA1-Digest: AiNjDSE7SOPDn+agLx13WLjHaZE=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: K5r1NY1PnOuaEj6SS3IQ5k3lKnY=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: XBMJdehAu81rr0VDCT4ygft9v20=
+
+Name: res/layout/membership.xml
+SHA1-Digest: LLL29CAV4w24OIqvk2uOdLJNq54=
+
+Name: assets/smartphone/js/jquery.min.js
+SHA1-Digest: tm7XCHF78LSgBaTQETr4hD7zuP8=
+
+Name: res/drawable-hdpi/ic_people.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-hdpi/bg_main.jpg
+SHA1-Digest: YxeMb8V4iV3ORJrLPqeYaeCznfs=
+
+Name: res/drawable/list_selector.xml
+SHA1-Digest: 9aqrj8XCD8RX+hiZ9vuAT2xmBUE=
+
+Name: resources.arsc
+SHA1-Digest: OTpzZ9tWw2SLNtlhKNThePPcSgw=
+
+Name: res/drawable-xhdpi/splash.png
+SHA1-Digest: XBMJdehAu81rr0VDCT4ygft9v20=
+
+Name: res/layout/fragment_community.xml
+SHA1-Digest: eSLhjtdytra0h3nLL2XKelbm4Ao=
+
+Name: res/layout/new_feed.xml
+SHA1-Digest: a6oRypyaU+cfmRJaV5iGC5vaoOE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3DqV6VoWgFaD6/YIo//402GOLiY=
+
+Name: res/layout/drawer_list_item.xml
+SHA1-Digest: 5efc/fgiILhoghqz2k/l+dg4HjU=
+
+Name: res/layout/feed_item.xml
+SHA1-Digest: 0l2E3RqxFfqOfCnKOrjg7+X9WAI=
+
+Name: res/drawable-hdpi/ic_pros.png
+SHA1-Digest: he204+jOjUnm13OJsuzx26WMdmw=
+
+Name: assets/about.png
+SHA1-Digest: 53ebZu2Yf7ZOuDXMbpyySzXKwgY=
+
+Name: res/drawable-xhdpi/ic_photos.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-xxhdpi/ic_photos.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: assets/about_us.html
+SHA1-Digest: 5BO5PkTx096jmxAiu8qvA9cbIuQ=
+
+Name: res/drawable-mdpi/profile_pic.png
+SHA1-Digest: VG2jC5bQwvAIn0XUvPNUcgUPkQ0=
+
+Name: assets/smartphone/js/easing.js
+SHA1-Digest: qpze+C3N3r6af7L2XqOLv3D932A=
+
+Name: assets/smartphone/bio.html
+SHA1-Digest: 5+4hmj7gUGettKaNyEcaP5E6WgE=
+
+Name: res/drawable-hdpi/ic_home.png
+SHA1-Digest: HDaSVfAaSuPfSP1si7OxzJ8CBdo=
+
+Name: assets/smartphone/images/bio.jpg
+SHA1-Digest: O5fPeU//52a2Nyc5swLh4YP3Djc=
+
+Name: assets/kpl.html
+SHA1-Digest: NxotsZgjdtXO5aui5zf/HAuJTJI=
+
+Name: res/drawable/visa.gif
+SHA1-Digest: aj0F0AnN3NyAfjJJ9nDgMnJLyFk=
+
+Name: res/drawable-xhdpi/ic_communities.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-xhdpi/ic_drawer.png
+SHA1-Digest: lfux935XI0S6WkHCj9Qm+wnWNh8=
+
+Name: res/drawable/button_styles.xml
+SHA1-Digest: AJCO2L/4/v6mLi5sFPP5MR54NL0=
+
+Name: res/drawable/list_item_bg_normal.xml
+SHA1-Digest: Q5rCGy0388XDgi/NODphFLLH3cE=
+
+Name: res/drawable-xhdpi/ic_people.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-xxhdpi/ic_home.png
+SHA1-Digest: c7ejJ3lxUIV6ddumoZ+AQOPpYf0=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: JU0FTtXEWLviuNV9iYERodv9eVI=
+
+Name: res/drawable/counter_bg.xml
+SHA1-Digest: hm9lJr2Tt6DDHkpSG3UeK/bH5aQ=
+
+Name: res/drawable-mdpi/karibu_login.png
+SHA1-Digest: eMrYho1wBD0nJbKXSBaKV+rif74=
+
+Name: res/drawable-xhdpi/ic_pages.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-xxhdpi/karibu_login.png
+SHA1-Digest: eMrYho1wBD0nJbKXSBaKV+rif74=
+
+Name: res/drawable-xxhdpi/bg_main.jpg
+SHA1-Digest: YxeMb8V4iV3ORJrLPqeYaeCznfs=
+
+Name: assets/smartphone/pros.html
+SHA1-Digest: o734+7Ow50XeLXRRwSYXsxH3QEg=
+
+Name: res/drawable-hdpi/ic_drawer.png
+SHA1-Digest: N1cYKhdG4FxyffOSW19K1zGrDoc=
+
+Name: res/drawable-mdpi/ic_stat_name.png
+SHA1-Digest: ct1+kkpbbAYqcux6JN9ID+sha6c=
+
+Name: res/drawable/bg_parent_rounded_corner.xml
+SHA1-Digest: zQwTuCEkNfzdqMP4CpaaxcBi0GU=
+
+Name: res/drawable-xxhdpi/profile_pic.png
+SHA1-Digest: NaxcpS0EnLZcIfHkUzNBs2MxMME=
+
+Name: res/drawable-xhdpi/profile_pic.png
+SHA1-Digest: CliqDdS7dd5g1BaIFgKoelFISkM=
+
+Name: res/drawable-mdpi/ic_pages.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-hdpi/ic_pages.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable/list_item_bg_pressed.xml
+SHA1-Digest: U8cIxJmWfGJbu5Hgv+rwjBeLPvo=
+
+Name: res/drawable-mdpi/welcome.png
+SHA1-Digest: CQaXHc9Iay4cpse7TZ4HBmEkxIw=
+
+Name: res/drawable-hdpi/ic_photos.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: assets/smartphone/index.html
+SHA1-Digest: GhOzKwcp2mX1qa79vpJc74cih1A=
+
+Name: assets/smartphone/images/to-top1.png
+SHA1-Digest: iWE/iCQbjP2PPhnee6cnXAp7/Ro=
+
+Name: res/layout/fragment_pages.xml
+SHA1-Digest: x50Nfg3k50aDIfFtGq96ia0Cd7Y=
+
+Name: res/drawable-xhdpi/ic_whats_hot.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/menu/feed_menu.xml
+SHA1-Digest: lUi4E/CdK09csv6YZAwJKFyLZNw=
+
+Name: res/drawable-mdpi/ic_whats_hot.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: K5r1NY1PnOuaEj6SS3IQ5k3lKnY=
+
+Name: assets/smartphone/images/slide1.jpg
+SHA1-Digest: Vsoi8UT6TtMHuyZWnIVqZaJQxmY=
+
+Name: assets/smartphone/images/pros.jpg
+SHA1-Digest: acxnZ7huGxhV0htx+A4cl1UFyak=
+
+Name: res/drawable-mdpi/ic_communities.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-hdpi/layoutborder_nobg.xml
+SHA1-Digest: fcgU38euLyC2q3GGyAoC2Bc6/zA=
+
+Name: res/drawable-xxhdpi/ic_stat_name.png
+SHA1-Digest: QtKy7xiIFhgtuKKyUmQg53UdE8s=
+
+Name: res/drawable-xxhdpi/ic_whats_hot.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-mdpi/ic_people.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: assets/smartphone/images/logo.jpg
+SHA1-Digest: qWHm/Q1uEn6OJwsHgKhNc7uIAXM=
+
+Name: assets/smartphone/js/responsiveslides.min.js
+SHA1-Digest: 1kn72CPbQOuIG5gQMQaYys7Q6lg=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: K5r1NY1PnOuaEj6SS3IQ5k3lKnY=
+
+Name: assets/tounaments.html
+SHA1-Digest: iKfotEa8f6/kmlcBAXz+ecF0Zzg=
+
+Name: assets/css/style.css
+SHA1-Digest: cLmEUPCz23Jw+6gXgtoIP1nMqKM=
+
+Name: assets/smartphone/images/down-arrowb.png
+SHA1-Digest: lrsB2CmLUH96O19q0FEtudfryWo=
+
+Name: res/drawable-hdpi/gor.png
+SHA1-Digest: Mza5aQa308OfplkeUyyJw4RPJ+g=
+
+Name: assets/diet.html
+SHA1-Digest: vkKjWyjSWUM+o3PGvahShaQkemk=
+
+Name: res/drawable/avatar.jpg
+SHA1-Digest: 3gidnv3yePB11SxCoKs7ynIE9Kc=
+
+Name: assets/smartphone/images/slide3.jpg
+SHA1-Digest: M16ECx6Xmk2YP2oVboQUv9AzIF0=
+
+Name: res/drawable-hdpi/ic_bio.png
+SHA1-Digest: A6aWdn8zhe7u1O3z3Bwiwa0Oc+8=
+
+Name: assets/index.html
+SHA1-Digest: uEFOFLB0O67fu3DiPuafEWNsMLM=
+
+Name: assets/smartphone/images/services-icons.png
+SHA1-Digest: wUqC7CK+gYvriCSp6KULuV6GFaA=
+
+Name: res/layout/fragment_home.xml
+SHA1-Digest: jxGSCc7A9gDjT062pmT5qpRaep4=
+
+Name: res/drawable-hdpi/ic_stat_name.png
+SHA1-Digest: u85fKQta0H5QtlYcXzzbXMUSHwE=
+
+Name: res/layout/splash.xml
+SHA1-Digest: PCMM/KBjcXYIxTws/E5+Lf/qE1A=
+
+Name: res/drawable-xxhdpi/welcome.png
+SHA1-Digest: CQaXHc9Iay4cpse7TZ4HBmEkxIw=
+
+Name: res/layout/fragment_whats_hot.xml
+SHA1-Digest: 1QYn50GBe64EPQhTp8rUQirP1N8=
+
+Name: res/drawable-xxhdpi/ic_communities.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable/red_buttons.xml
+SHA1-Digest: hIczEUmcKiDim5xIZRpI6wI9Hhk=
+
+Name: res/menu/main.xml
+SHA1-Digest: sTO6lZ+m/VmMro6UoYyh8Pxbums=
+
+Name: res/drawable-hdpi/bg_main_blurred.jpg
+SHA1-Digest: YxeMb8V4iV3ORJrLPqeYaeCznfs=
+
+Name: res/drawable-mdpi/ic_drawer.png
+SHA1-Digest: avlXkQp1YWAufGsapRQPu3uvDgs=
+
+Name: assets/welcome.html
+SHA1-Digest: aU/ZFkBUz3AD5QiTPQ5ATtoOu0M=
+
+Name: res/layout/fragment_events.xml
+SHA1-Digest: P3NWmw7KVoM4UKaUCf/olVu3FlI=
+
+Name: res/drawable-xhdpi/visa.gif
+SHA1-Digest: aj0F0AnN3NyAfjJJ9nDgMnJLyFk=
+
+Name: assets/smartphone/images/top-grid-info-bg-bl.png
+SHA1-Digest: RCJq0eGc6CHraw/QNnGcFXMFiiY=
+
+Name: res/layout/register.xml
+SHA1-Digest: beY/WWB8ZXwKVSRCzrIukWYYQjA=
+
+Name: res/drawable-hdpi/layoutborder.xml
+SHA1-Digest: Py1xY8T0vyjSq3tFm/fy8yzpX00=
+
+Name: res/drawable-mdpi/ic_home.png
+SHA1-Digest: aCeitHBWbxI6wneX28enpYYW2sc=
+
+Name: res/drawable/gor.png
+SHA1-Digest: Nye7k6sOEGhYAF7WV2DGDHnHjyM=
+
+Name: res/drawable-hdpi/ic_communities.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: K5r1NY1PnOuaEj6SS3IQ5k3lKnY=
+
+Name: assets/footer.png
+SHA1-Digest: SZBrPqWjRhlNktSQeXZnQpRGROo=
+
+Name: assets/logo.png
+SHA1-Digest: cjOq4SfgdmjMtePHL6LE1CtQ5gs=
+
+Name: res/layout/fragment_tounaments.xml
+SHA1-Digest: Vz01f5taRLqW12yidkjz3oMab3c=
+
+Name: res/layout/fragment_feedback.xml
+SHA1-Digest: gV8uyAc8NFFrwlXCQjoLvMWoI/o=
+
+Name: res/drawable-hdpi/red_buttons.xml
+SHA1-Digest: VKjzzxP2bVtN9/WvPS1RTVVvgDo=
+
+Name: assets/smartphone/images/slider-arrows.png
+SHA1-Digest: Utx3NsTb0nduUtAjWhfnU1eQe1E=
+
+Name: res/layout/login.xml
+SHA1-Digest: KO1fPdSQ6PuZG8ugTqGW4SZbbLI=
+
+Name: res/drawable-xxhdpi/ic_people.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+
+Name: res/drawable-mdpi/visa.gif
+SHA1-Digest: aj0F0AnN3NyAfjJJ9nDgMnJLyFk=
+
+Name: res/drawable-xhdpi/karibu_login.png
+SHA1-Digest: eMrYho1wBD0nJbKXSBaKV+rif74=
+
+Name: res/drawable-xhdpi/ic_stat_name.png
+SHA1-Digest: L8zSqo5bWdosfsik9Lzpv96RoY0=
+
+Name: res/drawable-mdpi/bg_main.jpg
+SHA1-Digest: YxeMb8V4iV3ORJrLPqeYaeCznfs=
+
+Name: assets/smartphone/images/top-arrow.png
+SHA1-Digest: GMVs4kUDHJTT9D+4fdw8OHzNIjw=
+
+Name: res/drawable-hdpi/test_buttons.xml
+SHA1-Digest: EL/ZmSWb2lWzfUN0y29Fg2xzGWo=
+
+Name: res/drawable-hdpi/visa.gif
+SHA1-Digest: aj0F0AnN3NyAfjJJ9nDgMnJLyFk=
+
+Name: classes.dex
+SHA1-Digest: bpBePnYTIqLgfVFQVP6enSZtIUE=
+
+Name: res/drawable-xhdpi/ic_home.png
+SHA1-Digest: acVsIfZ+GJ4fEAq5mw92jWOlmj4=
+
+Name: res/drawable-mdpi/ic_photos.png
+SHA1-Digest: Qrk0v70GOefzAigYGXCi9wv/I08=
+

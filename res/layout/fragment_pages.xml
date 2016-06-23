@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg_main" android:layout_width="-1" android:layout_height="-1">
+    <WebView android:id="@id/webFKF" android:visibility="0" android:layout_width="-1" android:layout_height="-1" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+</RelativeLayout>

@@ -1,0 +1,143 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="The free Easier Iphone web template, Andriod web template, Smartphone web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/jquery.min.js"></script>
+		 <!-- Custom Theme files -->
+		<link href="css/style.css" rel='stylesheet' type='text/css' />
+   		 <!-- Custom Theme files -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+		</script>
+		 <!---- start-smoth-scrolling---->
+		<script type="text/javascript" src="js/move-top.js"></script>
+		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+		 <!---- start-smoth-scrolling---->
+		<!----webfonts--->
+		<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+		<!---//webfonts--->
+		<!----start-top-nav-script---->
+		<script>
+			$(function() {
+				var pull 		= $('#pull');
+					menu 		= $('nav ul');
+					menuHeight	= menu.height();
+				$(pull).on('click', function(e) {
+					e.preventDefault();
+					menu.slideToggle();
+				});
+				$(window).resize(function(){
+	        		var w = $(window).width();
+	        		if(w > 320 && menu.is(':hidden')) {
+	        			menu.removeAttr('style');
+	        		}
+	    		});
+			});
+		</script>
+		<!----//End-top-nav-script---->
+	</head>
+	<body>
+		<!----- start-header---->
+			<div id="home" class="header">
+					<div class="top-header">
+						<div class="container">
+					
+						
+					
+					</div>
+				</div>
+			</div>
+		<!----- //End-header---->
+		<!----start-slider-script---->
+			<script src="js/responsiveslides.min.js"></script>
+			 <script>
+			    // You can also use "$(window).load(function() {"
+			    $(function () {
+			      // Slideshow 4
+			      $("#slider4").responsiveSlides({
+			        auto: true,
+			        pager: true,
+			        nav: true,
+			        speed: 500,
+			        namespace: "callbacks",
+			        before: function () {
+			          $('.events').append("<li>before event fired.</li>");
+			        },
+			        after: function () {
+			          $('.events').append("<li>after event fired.</li>");
+			        }
+			      });
+			
+			    });
+			  </script>
+			<!----//End-slider-script---->
+			<!-- Slideshow 4 -->
+			    <div  id="top" class="callbacks_container">
+			      <ul class="rslides" id="slider4">
+			        <li>
+			          <img src="images/pros.jpg" alt="">
+			          <div class="caption">
+			         
+			          </div>
+			        </li>
+			       
+			      </ul>
+			    </div>
+			    <div class="clear"> </div>
+			<!----- //End-slider---->
+			<!---- about ---->
+			<div id="about" class="about">
+				<div class="container">
+					<div class="header about-header text-center">
+						<h2>Hon. Dr. Jonathan Mueke</h2>
+						<p>My Prospectus</p>
+					</div>
+					<!---- About-grids ---->
+					<div class="about-grids">
+						<div class="col-md-4">
+							<div class="about-grid">
+								
+								<div class="about-grid-info">
+									<h3><a href="#">My Prospectus</a></h3>
+									<p>What I intend to do for Kenya</p>
+									<p>&nbsp;</p>
+									<p>&nbsp;</p>
+								</div>
+							</div>
+						</div>
+						
+					<!---- About-grids ---->
+				</div>
+				
+			</div>
+			<!---- about ---->
+			
+		
+			<!---- contact ---->
+			<div id="contact" class="contact"></div>
+			<!---- contact ---->
+	<div class="clear"> </div>
+			<!--- copy-right ---->
+			<div class="copy-right"></div>
+			<!--- copy-right ---->
+	</body>
+</html>
+

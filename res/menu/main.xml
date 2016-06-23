@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:id="@id/donate" android:orderInCategory="100" android:title="Donate" android:showAsAction="0" />
+    <item android:id="@id/events" android:orderInCategory="100" android:title="Notifications" android:showAsAction="0" />
+    <item android:id="@id/logout" android:orderInCategory="100" android:title="@string/action_settings" android:showAsAction="0" />
+    <item android:id="@id/profile" android:orderInCategory="100" android:title="My Profile" android:showAsAction="0" />
+</menu>

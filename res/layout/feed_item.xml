@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="@color/feed_bg" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="1" android:background="@drawable/bg_parent_rounded_corner" android:paddingTop="@dimen/feed_item_padding_top_bottom" android:paddingBottom="@dimen/feed_item_padding_top_bottom" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="@dimen/feed_item_margin" android:layout_marginTop="@dimen/feed_item_margin" android:layout_marginRight="@dimen/feed_item_margin"
+        <LinearLayout android:orientation="0" android:paddingLeft="@dimen/feed_item_padding_left_right" android:paddingRight="@dimen/feed_item_padding_left_right" android:layout_width="-1" android:layout_height="-2">
+            <com.android.volley.toolbox.NetworkImageView android:id="@id/profilePic" android:layout_width="@dimen/feed_item_profile_pic" android:layout_height="@dimen/feed_item_profile_pic" android:scaleType="3" />
+            <LinearLayout android:orientation="1" android:paddingLeft="@dimen/feed_item_profile_info_padd" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="@dimen/feed_item_profile_name" android:textStyle="1" android:id="@id/name" android:layout_width="-1" android:layout_height="-2" />
+                <TextView android:textSize="@dimen/feed_item_timestamp" android:textColor="@color/timestamp" android:id="@id/timestamp" android:layout_width="-1" android:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:id="@id/txtStatusMsg" android:paddingLeft="@dimen/feed_item_status_pad_left_right" android:paddingTop="@dimen/feed_item_status_pad_top" android:paddingRight="@dimen/feed_item_status_pad_left_right" android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-2" />
+        <TextView android:textColorLink="@color/link" android:linksClickable="true" android:id="@id/txtUrl" android:paddingLeft="@dimen/feed_item_status_pad_left_right" android:paddingRight="@dimen/feed_item_status_pad_left_right" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-2" />
+        <info.androidhive.listviewfeed.FeedImageView android:id="@id/feedImage1" android:background="@color/white" android:visibility="0" android:layout_width="-1" android:layout_height="-2" android:scaleType="1" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#ffffffff</color>
+    <color name="list_background">#ff303030</color>
+    <color name="list_background_pressed">#ff992416</color>
+    <color name="list_divider">#ff272727</color>
+    <color name="counter_text_bg">#ff626262</color>
+    <color name="counter_text_color">#ffc5c4c4</color>
+    <color name="white">#ffffffff</color>
+    <color name="feed_bg">#ffd3d6db</color>
+    <color name="feed_item_bg">#ffffffff</color>
+    <color name="feed_item_border">#ffc2c3c8</color>
+    <color name="link">#ff0a80d1</color>
+    <color name="timestamp">#ffa0a3a7</color>
+</resources>

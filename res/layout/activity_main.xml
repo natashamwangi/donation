@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/drawer_layout" android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:id="@id/frame_container" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="Main Loader" />
+    </FrameLayout>
+    <ListView android:layout_gravity="800003" android:id="@id/list_slidermenu" android:background="@color/list_background" android:layout_width="240dp" android:layout_height="-1" android:listSelector="@drawable/list_selector" android:divider="@color/list_divider" android:dividerHeight="1dp" android:choiceMode="1" />
+</android.support.v4.widget.DrawerLayout>
